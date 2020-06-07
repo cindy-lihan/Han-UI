@@ -1,0 +1,23 @@
+{
+  "name": "hanui",
+  "version": "1.0.0",
+  "description": "vue ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cindy-lihan/HanUI.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "lihan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cindy-lihan/HanUI/issues"
+  },
+  "homepage": "https://github.com/cindy-lihan/HanUI#readme"
+}
